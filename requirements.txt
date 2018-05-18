@@ -1,2 +1,2 @@
 pyperclip==1.6.0
-pyimgur==10.0.1
+pyimgur==0.6.0
