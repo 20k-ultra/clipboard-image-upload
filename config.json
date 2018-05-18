@@ -1,0 +1,13 @@
+{
+  "notifications": {
+    "sound": {
+      "player": "",
+      "file": "notif.wav",
+      "play": true
+    },
+    "show_notification": true
+  },
+  "imgur": {
+    "client_id": ""
+  }
+}
